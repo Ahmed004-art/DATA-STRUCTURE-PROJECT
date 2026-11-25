@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Testing & coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Distribution / build
+build/
+dist/
+*.egg-info/
+
+# Temporary / local secrets
+.env
+*.local
+
+# Local submission archive (generated for upload, not tracked in Git)
+*.zip
